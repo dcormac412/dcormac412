@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Grado Superior Desarrollo de Aplicaciones Web**
 
-- 💬 Pregúntame sobre **Java|Javascript| **
+- 💬 Pregúntame sobre Java|Javascript|
 
 - 📫 Cómo contactarme **danielcortesmacias@gmail.com**
 
