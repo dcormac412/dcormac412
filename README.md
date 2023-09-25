@@ -1,5 +1,11 @@
 # 💫 About Me:
-Estudiando Grado Superior Desarrollo de Aplicaciones Web
+Estudiante de Desarrollo de Aplicaciones Web, con sólida experiencia en HTML, CSS, JavaScript y Java. He trabajado en proyectos de desarrollo web que abarcan desde la creación de sitios web hasta la implementación de funcionalidades interactivas.
+
+Persona en continuo aprendizaje con excelente capacidad de organización, dinamismo, proactividad y entusiasmo por aprender nuevas habilidades.
+
+Amplia experiencia en el manejo de redes sociales, así como en entornos laborales en los que se valora el compromiso y la capacidad de trabajar en equipo.
+
+En Instagram soy conocido como Dacordeveloper, en la que he creado una comunidad con más de 1500 seguidores. Dedicada a ayudar a entusiastas de la programación a aprender y crecer en sus habilidades. En ella comparto contenido, realizo retos, actividades, encuestas y sesiones de preguntas y respuestas en vivo, promoviendo así un aprendizaje activo y colaborativo.
 
 
 ## 🌐 Socials:
